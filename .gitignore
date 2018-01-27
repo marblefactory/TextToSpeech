@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.DS_STORE
+.idea/
+watson_credentials.json
+s2t_creds.json
+s2t/
+t2s/
